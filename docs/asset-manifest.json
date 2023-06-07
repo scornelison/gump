@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gump/static/css/main.afd7c33b.css",
-    "main.js": "/gump/static/js/main.c40d5973.js",
+    "main.js": "/gump/static/js/main.eff74772.js",
     "index.html": "/gump/index.html",
     "main.afd7c33b.css.map": "/gump/static/css/main.afd7c33b.css.map",
-    "main.c40d5973.js.map": "/gump/static/js/main.c40d5973.js.map"
+    "main.eff74772.js.map": "/gump/static/js/main.eff74772.js.map"
   },
   "entrypoints": [
     "static/css/main.afd7c33b.css",
-    "static/js/main.c40d5973.js"
+    "static/js/main.eff74772.js"
   ]
 }

@@ -49,6 +49,8 @@ export default function App() {
       <Auth
         supabaseClient={supabase}
         appearance={{ theme: ThemeSupa }}
+        redirectTo={window.location.href}
+        // redirectTo="http://example.com/"
         magicLink
       />
     );
