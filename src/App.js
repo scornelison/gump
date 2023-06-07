@@ -56,7 +56,7 @@ export default function App() {
     );
   } else {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename="/gump">
         <nav>
           <h1>Notes</h1>
           <Link to="/">Home</Link>
